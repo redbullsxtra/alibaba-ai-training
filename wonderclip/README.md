@@ -20,6 +20,6 @@ Before running any lab, you need a WonderClip account:
 
 ## Labs
 
-| Lab | Focus |
-|---|---|
-| `lab1-canvas` | Reference deck → 5s product video spot (prompt craft, reference adherence, A/B probing) |
+| Lab | Focus | Demo reference |
+|---|---|---|
+| [lab1-canvas](./lab1-canvas/) | Reference deck → 5s product video spot (prompt craft, reference adherence, A/B probing) | [reference-ui.png](./lab1-canvas/reference-ui.png) |

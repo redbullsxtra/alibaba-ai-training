@@ -18,6 +18,7 @@ Before running any lab, you need a QwenWork account:
 
 ## Labs
 
-| Lab | Focus |
-|---|---|
-| `lab1-analytics` | Multi-source analysis: industry PDF + churn CSV → hypotheses, statistics, Random Forest, executive dashboard |
+| Lab | Focus | Demo reference |
+|---|---|---|
+| [lab1-analytics](./lab1-analytics/) | Multi-source analysis: industry PDF + churn CSV → hypotheses, statistics, Random Forest, executive dashboard | — |
+| [lab2-music-video](./lab2-music-video/) | One-chat pipeline: Thai song composition → MiniMax audio → 15s MV (model orchestration + segment selection) | [YouTube demo](https://youtu.be/0qKcIOhLo-I) |
